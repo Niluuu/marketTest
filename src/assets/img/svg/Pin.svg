@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="18" viewBox="0 0 13 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+        opacity: 0.35;
+      }
+    </style>
+  </defs>
+  <path id="Pin" class="cls-1" d="M54.5,37.55a2.251,2.251,0,1,1,2.321-2.25A2.287,2.287,0,0,1,54.5,37.55Zm0-8.55A6.4,6.4,0,0,0,48,35.3C48,40.024,54.5,47,54.5,47S61,40.024,61,35.3A6.4,6.4,0,0,0,54.5,29Z" transform="translate(-48 -29)"/>
+</svg>

@@ -1,0 +1,4516 @@
+{ "products" : [
+    {
+      "id": 12,
+      "meta_title": null,
+      "meta_description": null,
+      "meta_keywords": null,
+      "name": "Высокие эластичные кроссовки",
+      "slug": null,
+      "description": "Высокие эластичные кроссовки песочного цвета.<br/><br/>JOIN LIFE Care for fiber & planet: не менее 25% переработанного полиэстера, произведенного в результате утилизации пластиковых бутылок, а также более экологически устойчивый полиуретан, который производится по новой технологии, способствующей защите окружающей среды.",
+      "composition": "",
+      "care": "",
+      "brand_id": 1,
+      "category_id": 16,
+      "reference": "1530/560",
+      "ean13": null,
+      "isbn": null,
+      "upc": null,
+      "quantity": 0,
+      "price": 0,
+      "old_price": 0,
+      "variations": [
+        {
+          "id": 127,
+          "product_id": 12,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": true,
+          "combinations": [
+            {
+              "id": 253,
+              "product_variation_id": 127,
+              "attribute_id": 1,
+              "value_id": 12,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 12,
+                "name": "35"
+              }
+            },
+            {
+              "id": 254,
+              "product_variation_id": 127,
+              "attribute_id": 2,
+              "value_id": 26,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 26,
+                "name": "Песочный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 128,
+          "product_id": 12,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 255,
+              "product_variation_id": 128,
+              "attribute_id": 1,
+              "value_id": 8,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 8,
+                "name": "36"
+              }
+            },
+            {
+              "id": 256,
+              "product_variation_id": 128,
+              "attribute_id": 2,
+              "value_id": 26,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 26,
+                "name": "Песочный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 129,
+          "product_id": 12,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 257,
+              "product_variation_id": 129,
+              "attribute_id": 1,
+              "value_id": 13,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 13,
+                "name": "37"
+              }
+            },
+            {
+              "id": 258,
+              "product_variation_id": 129,
+              "attribute_id": 2,
+              "value_id": 26,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 26,
+                "name": "Песочный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 130,
+          "product_id": 12,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 259,
+              "product_variation_id": 130,
+              "attribute_id": 1,
+              "value_id": 9,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 9,
+                "name": "38"
+              }
+            },
+            {
+              "id": 260,
+              "product_variation_id": 130,
+              "attribute_id": 2,
+              "value_id": 26,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 26,
+                "name": "Песочный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 131,
+          "product_id": 12,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 261,
+              "product_variation_id": 131,
+              "attribute_id": 1,
+              "value_id": 14,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 14,
+                "name": "39"
+              }
+            },
+            {
+              "id": 262,
+              "product_variation_id": 131,
+              "attribute_id": 2,
+              "value_id": 26,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 26,
+                "name": "Песочный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 132,
+          "product_id": 12,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 263,
+              "product_variation_id": 132,
+              "attribute_id": 1,
+              "value_id": 10,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 10,
+                "name": "40"
+              }
+            },
+            {
+              "id": 264,
+              "product_variation_id": 132,
+              "attribute_id": 2,
+              "value_id": 26,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 26,
+                "name": "Песочный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 133,
+          "product_id": 12,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 265,
+              "product_variation_id": 133,
+              "attribute_id": 1,
+              "value_id": 15,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 15,
+                "name": "41"
+              }
+            },
+            {
+              "id": 266,
+              "product_variation_id": 133,
+              "attribute_id": 2,
+              "value_id": 26,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 26,
+                "name": "Песочный"
+              }
+            }
+          ]
+        }
+      ],
+      "brand": {
+        "id": 1,
+        "name": "Zara"
+      },
+      "category": {
+        "id": 16,
+        "name": "Платья и сарафаны",
+        "slug": "platiya-i-sarafany",
+        "meta_title": null,
+        "meta_description": null,
+        "meta_keywords": null,
+        "description": null
+      }
+    },
+    {
+      "id": 13,
+      "meta_title": null,
+      "meta_description": null,
+      "meta_keywords": null,
+      "name": "Джинсы скинни с двойным поясом",
+      "slug": null,
+      "description": "Эластичные джинсы скинни с 5 карманами и высокой посадкой. Застежка на две металлические пуговицы и молнию, скрытую планкой.<br/><br/>JOIN LIFE Care for fiber: не менее 50% органического хлопка. Органический хлопок выращивается с применением методов, способствующих защите биологического разнообразия: таких, как ротация культур и использование натуральных удобрений.",
+      "composition": "",
+      "care": "",
+      "brand_id": 1,
+      "category_id": 16,
+      "reference": "0051/019",
+      "ean13": null,
+      "isbn": null,
+      "upc": null,
+      "quantity": 0,
+      "price": 0,
+      "old_price": 0,
+      "variations": [
+        {
+          "id": 134,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": true,
+          "combinations": [
+            {
+              "id": 267,
+              "product_variation_id": 134,
+              "attribute_id": 1,
+              "value_id": 6,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 6,
+                "name": "32"
+              }
+            },
+            {
+              "id": 268,
+              "product_variation_id": 134,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 135,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 269,
+              "product_variation_id": 135,
+              "attribute_id": 1,
+              "value_id": 6,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 6,
+                "name": "32"
+              }
+            },
+            {
+              "id": 270,
+              "product_variation_id": 135,
+              "attribute_id": 2,
+              "value_id": 27,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 27,
+                "name": "Хаки"
+              }
+            }
+          ]
+        },
+        {
+          "id": 136,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 271,
+              "product_variation_id": 136,
+              "attribute_id": 1,
+              "value_id": 6,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 6,
+                "name": "32"
+              }
+            },
+            {
+              "id": 272,
+              "product_variation_id": 136,
+              "attribute_id": 2,
+              "value_id": 24,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 24,
+                "name": "Розовый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 137,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 273,
+              "product_variation_id": 137,
+              "attribute_id": 1,
+              "value_id": 7,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 7,
+                "name": "34"
+              }
+            },
+            {
+              "id": 274,
+              "product_variation_id": 137,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 138,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 275,
+              "product_variation_id": 138,
+              "attribute_id": 1,
+              "value_id": 7,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 7,
+                "name": "34"
+              }
+            },
+            {
+              "id": 276,
+              "product_variation_id": 138,
+              "attribute_id": 2,
+              "value_id": 27,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 27,
+                "name": "Хаки"
+              }
+            }
+          ]
+        },
+        {
+          "id": 139,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 277,
+              "product_variation_id": 139,
+              "attribute_id": 1,
+              "value_id": 7,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 7,
+                "name": "34"
+              }
+            },
+            {
+              "id": 278,
+              "product_variation_id": 139,
+              "attribute_id": 2,
+              "value_id": 24,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 24,
+                "name": "Розовый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 140,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 279,
+              "product_variation_id": 140,
+              "attribute_id": 1,
+              "value_id": 8,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 8,
+                "name": "36"
+              }
+            },
+            {
+              "id": 280,
+              "product_variation_id": 140,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 141,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 281,
+              "product_variation_id": 141,
+              "attribute_id": 1,
+              "value_id": 8,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 8,
+                "name": "36"
+              }
+            },
+            {
+              "id": 282,
+              "product_variation_id": 141,
+              "attribute_id": 2,
+              "value_id": 27,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 27,
+                "name": "Хаки"
+              }
+            }
+          ]
+        },
+        {
+          "id": 142,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 283,
+              "product_variation_id": 142,
+              "attribute_id": 1,
+              "value_id": 8,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 8,
+                "name": "36"
+              }
+            },
+            {
+              "id": 284,
+              "product_variation_id": 142,
+              "attribute_id": 2,
+              "value_id": 24,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 24,
+                "name": "Розовый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 143,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 285,
+              "product_variation_id": 143,
+              "attribute_id": 1,
+              "value_id": 9,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 9,
+                "name": "38"
+              }
+            },
+            {
+              "id": 286,
+              "product_variation_id": 143,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 144,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 287,
+              "product_variation_id": 144,
+              "attribute_id": 1,
+              "value_id": 9,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 9,
+                "name": "38"
+              }
+            },
+            {
+              "id": 288,
+              "product_variation_id": 144,
+              "attribute_id": 2,
+              "value_id": 27,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 27,
+                "name": "Хаки"
+              }
+            }
+          ]
+        },
+        {
+          "id": 145,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 289,
+              "product_variation_id": 145,
+              "attribute_id": 1,
+              "value_id": 9,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 9,
+                "name": "38"
+              }
+            },
+            {
+              "id": 290,
+              "product_variation_id": 145,
+              "attribute_id": 2,
+              "value_id": 24,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 24,
+                "name": "Розовый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 146,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 291,
+              "product_variation_id": 146,
+              "attribute_id": 1,
+              "value_id": 10,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 10,
+                "name": "40"
+              }
+            },
+            {
+              "id": 292,
+              "product_variation_id": 146,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 147,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 293,
+              "product_variation_id": 147,
+              "attribute_id": 1,
+              "value_id": 10,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 10,
+                "name": "40"
+              }
+            },
+            {
+              "id": 294,
+              "product_variation_id": 147,
+              "attribute_id": 2,
+              "value_id": 27,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 27,
+                "name": "Хаки"
+              }
+            }
+          ]
+        },
+        {
+          "id": 148,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 295,
+              "product_variation_id": 148,
+              "attribute_id": 1,
+              "value_id": 10,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 10,
+                "name": "40"
+              }
+            },
+            {
+              "id": 296,
+              "product_variation_id": 148,
+              "attribute_id": 2,
+              "value_id": 24,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 24,
+                "name": "Розовый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 149,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 297,
+              "product_variation_id": 149,
+              "attribute_id": 1,
+              "value_id": 21,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 21,
+                "name": "42"
+              }
+            },
+            {
+              "id": 298,
+              "product_variation_id": 149,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 150,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 299,
+              "product_variation_id": 150,
+              "attribute_id": 1,
+              "value_id": 21,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 21,
+                "name": "42"
+              }
+            },
+            {
+              "id": 300,
+              "product_variation_id": 150,
+              "attribute_id": 2,
+              "value_id": 27,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 27,
+                "name": "Хаки"
+              }
+            }
+          ]
+        },
+        {
+          "id": 151,
+          "product_id": 13,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 301,
+              "product_variation_id": 151,
+              "attribute_id": 1,
+              "value_id": 21,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 21,
+                "name": "42"
+              }
+            },
+            {
+              "id": 302,
+              "product_variation_id": 151,
+              "attribute_id": 2,
+              "value_id": 24,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 24,
+                "name": "Розовый"
+              }
+            }
+          ]
+        }
+      ],
+      "brand": {
+        "id": 1,
+        "name": "Zara"
+      },
+      "category": {
+        "id": 16,
+        "name": "Платья и сарафаны",
+        "slug": "platiya-i-sarafany",
+        "meta_title": null,
+        "meta_description": null,
+        "meta_keywords": null,
+        "description": null
+      }
+    },
+    {
+      "id": 14,
+      "meta_title": null,
+      "meta_description": null,
+      "meta_keywords": null,
+      "name": "Футболка с принтом Def Leppard и узлом",
+      "slug": null,
+      "description": "JOIN LIFE Care for fiber: 100% органический хлопок. Органический хлопок выращивается с применением методов, способствующих защите биологического разнообразия, таких как ротация культур или использование натуральных удобрений.",
+      "composition": "",
+      "care": "",
+      "brand_id": 1,
+      "category_id": 16,
+      "reference": "2231/463",
+      "ean13": null,
+      "isbn": null,
+      "upc": null,
+      "quantity": 0,
+      "price": 0,
+      "old_price": 0,
+      "variations": [
+        {
+          "id": 152,
+          "product_id": 14,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": true,
+          "combinations": [
+            {
+              "id": 303,
+              "product_variation_id": 152,
+              "attribute_id": 1,
+              "value_id": 1,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 1,
+                "name": "XS"
+              }
+            },
+            {
+              "id": 304,
+              "product_variation_id": 152,
+              "attribute_id": 2,
+              "value_id": 11,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 11,
+                "name": "Фиолетовый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 153,
+          "product_id": 14,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 305,
+              "product_variation_id": 153,
+              "attribute_id": 1,
+              "value_id": 2,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 2,
+                "name": "S"
+              }
+            },
+            {
+              "id": 306,
+              "product_variation_id": 153,
+              "attribute_id": 2,
+              "value_id": 11,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 11,
+                "name": "Фиолетовый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 154,
+          "product_id": 14,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 307,
+              "product_variation_id": 154,
+              "attribute_id": 1,
+              "value_id": 3,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 3,
+                "name": "M"
+              }
+            },
+            {
+              "id": 308,
+              "product_variation_id": 154,
+              "attribute_id": 2,
+              "value_id": 11,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 11,
+                "name": "Фиолетовый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 155,
+          "product_id": 14,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 309,
+              "product_variation_id": 155,
+              "attribute_id": 1,
+              "value_id": 4,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 4,
+                "name": "L"
+              }
+            },
+            {
+              "id": 310,
+              "product_variation_id": 155,
+              "attribute_id": 2,
+              "value_id": 11,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 11,
+                "name": "Фиолетовый"
+              }
+            }
+          ]
+        }
+      ],
+      "brand": {
+        "id": 1,
+        "name": "Zara"
+      },
+      "category": {
+        "id": 16,
+        "name": "Платья и сарафаны",
+        "slug": "platiya-i-sarafany",
+        "meta_title": null,
+        "meta_description": null,
+        "meta_keywords": null,
+        "description": null
+      }
+    },
+    {
+      "id": 15,
+      "meta_title": null,
+      "meta_description": null,
+      "meta_keywords": null,
+      "name": "Толстовка с принтом",
+      "slug": null,
+      "description": "JOIN LIFE Care for fiber: не менее 85% органического хлопка. Органический хлопок выращивается с применением методов, способствующих защите биологического разнообразия: таких, как ротация культур и использование натуральных удобрений.",
+      "composition": "",
+      "care": "",
+      "brand_id": 1,
+      "category_id": 16,
+      "reference": "1704/443",
+      "ean13": null,
+      "isbn": null,
+      "upc": null,
+      "quantity": 0,
+      "price": 0,
+      "old_price": 0,
+      "variations": [
+        {
+          "id": 156,
+          "product_id": 15,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": true,
+          "combinations": [
+            {
+              "id": 311,
+              "product_variation_id": 156,
+              "attribute_id": 1,
+              "value_id": 2,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 2,
+                "name": "S"
+              }
+            },
+            {
+              "id": 312,
+              "product_variation_id": 156,
+              "attribute_id": 2,
+              "value_id": 18,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 18,
+                "name": "Белый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 157,
+          "product_id": 15,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 313,
+              "product_variation_id": 157,
+              "attribute_id": 1,
+              "value_id": 2,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 2,
+                "name": "S"
+              }
+            },
+            {
+              "id": 314,
+              "product_variation_id": 157,
+              "attribute_id": 2,
+              "value_id": 19,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 19,
+                "name": "Голубой"
+              }
+            }
+          ]
+        },
+        {
+          "id": 158,
+          "product_id": 15,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 315,
+              "product_variation_id": 158,
+              "attribute_id": 1,
+              "value_id": 2,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 2,
+                "name": "S"
+              }
+            },
+            {
+              "id": 316,
+              "product_variation_id": 158,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 159,
+          "product_id": 15,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 317,
+              "product_variation_id": 159,
+              "attribute_id": 1,
+              "value_id": 3,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 3,
+                "name": "M"
+              }
+            },
+            {
+              "id": 318,
+              "product_variation_id": 159,
+              "attribute_id": 2,
+              "value_id": 18,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 18,
+                "name": "Белый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 160,
+          "product_id": 15,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 319,
+              "product_variation_id": 160,
+              "attribute_id": 1,
+              "value_id": 3,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 3,
+                "name": "M"
+              }
+            },
+            {
+              "id": 320,
+              "product_variation_id": 160,
+              "attribute_id": 2,
+              "value_id": 19,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 19,
+                "name": "Голубой"
+              }
+            }
+          ]
+        },
+        {
+          "id": 161,
+          "product_id": 15,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 321,
+              "product_variation_id": 161,
+              "attribute_id": 1,
+              "value_id": 3,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 3,
+                "name": "M"
+              }
+            },
+            {
+              "id": 322,
+              "product_variation_id": 161,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 162,
+          "product_id": 15,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 323,
+              "product_variation_id": 162,
+              "attribute_id": 1,
+              "value_id": 4,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 4,
+                "name": "L"
+              }
+            },
+            {
+              "id": 324,
+              "product_variation_id": 162,
+              "attribute_id": 2,
+              "value_id": 18,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 18,
+                "name": "Белый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 163,
+          "product_id": 15,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 325,
+              "product_variation_id": 163,
+              "attribute_id": 1,
+              "value_id": 4,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 4,
+                "name": "L"
+              }
+            },
+            {
+              "id": 326,
+              "product_variation_id": 163,
+              "attribute_id": 2,
+              "value_id": 19,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 19,
+                "name": "Голубой"
+              }
+            }
+          ]
+        },
+        {
+          "id": 164,
+          "product_id": 15,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 327,
+              "product_variation_id": 164,
+              "attribute_id": 1,
+              "value_id": 4,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 4,
+                "name": "L"
+              }
+            },
+            {
+              "id": 328,
+              "product_variation_id": 164,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        }
+      ],
+      "brand": {
+        "id": 1,
+        "name": "Zara"
+      },
+      "category": {
+        "id": 16,
+        "name": "Платья и сарафаны",
+        "slug": "platiya-i-sarafany",
+        "meta_title": null,
+        "meta_description": null,
+        "meta_keywords": null,
+        "description": null
+      }
+    },
+    {
+      "id": 16,
+      "meta_title": null,
+      "meta_description": null,
+      "meta_keywords": null,
+      "name": "Лонгслив с принтом",
+      "slug": null,
+      "description": "JOIN LIFE Care for fiber: 100% органический хлопок. Органический хлопок выращивается с применением методов, способствующих защите биологического разнообразия, таких как ротация культур или использование натуральных удобрений.",
+      "composition": "",
+      "care": "",
+      "brand_id": 1,
+      "category_id": 16,
+      "reference": "2226/880",
+      "ean13": null,
+      "isbn": null,
+      "upc": null,
+      "quantity": 0,
+      "price": 0,
+      "old_price": 0,
+      "variations": [
+        {
+          "id": 165,
+          "product_id": 16,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": true,
+          "combinations": [
+            {
+              "id": 329,
+              "product_variation_id": 165,
+              "attribute_id": 1,
+              "value_id": 1,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 1,
+                "name": "XS"
+              }
+            },
+            {
+              "id": 330,
+              "product_variation_id": 165,
+              "attribute_id": 2,
+              "value_id": 18,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 18,
+                "name": "Белый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 166,
+          "product_id": 16,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 331,
+              "product_variation_id": 166,
+              "attribute_id": 1,
+              "value_id": 1,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 1,
+                "name": "XS"
+              }
+            },
+            {
+              "id": 332,
+              "product_variation_id": 166,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 167,
+          "product_id": 16,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 333,
+              "product_variation_id": 167,
+              "attribute_id": 1,
+              "value_id": 2,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 2,
+                "name": "S"
+              }
+            },
+            {
+              "id": 334,
+              "product_variation_id": 167,
+              "attribute_id": 2,
+              "value_id": 18,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 18,
+                "name": "Белый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 168,
+          "product_id": 16,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 335,
+              "product_variation_id": 168,
+              "attribute_id": 1,
+              "value_id": 2,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 2,
+                "name": "S"
+              }
+            },
+            {
+              "id": 336,
+              "product_variation_id": 168,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 169,
+          "product_id": 16,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 337,
+              "product_variation_id": 169,
+              "attribute_id": 1,
+              "value_id": 3,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 3,
+                "name": "M"
+              }
+            },
+            {
+              "id": 338,
+              "product_variation_id": 169,
+              "attribute_id": 2,
+              "value_id": 18,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 18,
+                "name": "Белый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 170,
+          "product_id": 16,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 339,
+              "product_variation_id": 170,
+              "attribute_id": 1,
+              "value_id": 3,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 3,
+                "name": "M"
+              }
+            },
+            {
+              "id": 340,
+              "product_variation_id": 170,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 171,
+          "product_id": 16,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 341,
+              "product_variation_id": 171,
+              "attribute_id": 1,
+              "value_id": 4,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 4,
+                "name": "L"
+              }
+            },
+            {
+              "id": 342,
+              "product_variation_id": 171,
+              "attribute_id": 2,
+              "value_id": 18,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 18,
+                "name": "Белый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 172,
+          "product_id": 16,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 343,
+              "product_variation_id": 172,
+              "attribute_id": 1,
+              "value_id": 4,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 4,
+                "name": "L"
+              }
+            },
+            {
+              "id": 344,
+              "product_variation_id": 172,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        }
+      ],
+      "brand": {
+        "id": 1,
+        "name": "Zara"
+      },
+      "category": {
+        "id": 16,
+        "name": "Платья и сарафаны",
+        "slug": "platiya-i-sarafany",
+        "meta_title": null,
+        "meta_description": null,
+        "meta_keywords": null,
+        "description": null
+      }
+    },
+    {
+      "id": 17,
+      "meta_title": null,
+      "meta_description": null,
+      "meta_keywords": null,
+      "name": "Укороченная джинсовая куртка",
+      "slug": null,
+      "description": "Укороченная джинсовая куртка с воротником и лацканами. Длинные рукава с манжетами, застегивающимися на пуговицы, два нагрудных кармана с клапанами и застежка на металлические пуговицы.<br/><br/>JOIN LIFE Care for fiber: не менее 50% органического хлопка. Органический хлопок выращивается с применением методов, способствующих защите биологического разнообразия: таких, как ротация культур и использование натуральных удобрений.",
+      "composition": "",
+      "care": "",
+      "brand_id": 1,
+      "category_id": 16,
+      "reference": "1114/335",
+      "ean13": null,
+      "isbn": null,
+      "upc": null,
+      "quantity": 0,
+      "price": 0,
+      "old_price": 0,
+      "variations": [
+        {
+          "id": 173,
+          "product_id": 17,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": true,
+          "combinations": [
+            {
+              "id": 345,
+              "product_variation_id": 173,
+              "attribute_id": 1,
+              "value_id": 1,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 1,
+                "name": "XS"
+              }
+            },
+            {
+              "id": 346,
+              "product_variation_id": 173,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 174,
+          "product_id": 17,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 347,
+              "product_variation_id": 174,
+              "attribute_id": 1,
+              "value_id": 2,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 2,
+                "name": "S"
+              }
+            },
+            {
+              "id": 348,
+              "product_variation_id": 174,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 175,
+          "product_id": 17,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 349,
+              "product_variation_id": 175,
+              "attribute_id": 1,
+              "value_id": 3,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 3,
+                "name": "M"
+              }
+            },
+            {
+              "id": 350,
+              "product_variation_id": 175,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 176,
+          "product_id": 17,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 351,
+              "product_variation_id": 176,
+              "attribute_id": 1,
+              "value_id": 4,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 4,
+                "name": "L"
+              }
+            },
+            {
+              "id": 352,
+              "product_variation_id": 176,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        }
+      ],
+      "brand": {
+        "id": 1,
+        "name": "Zara"
+      },
+      "category": {
+        "id": 16,
+        "name": "Платья и сарафаны",
+        "slug": "platiya-i-sarafany",
+        "meta_title": null,
+        "meta_description": null,
+        "meta_keywords": null,
+        "description": null
+      }
+    },
+    {
+      "id": 18,
+      "meta_title": null,
+      "meta_description": null,
+      "meta_keywords": null,
+      "name": "Короткая толстовка",
+      "slug": null,
+      "description": "JOIN LIFE Care for fiber: не менее 95% органического хлопка. Органический хлопок выращивается с применением методов, способствующих защите биологического разнообразия, таких как ротация культур и использование натуральных удобрений.",
+      "composition": "",
+      "care": "",
+      "brand_id": 1,
+      "category_id": 16,
+      "reference": "6913/443",
+      "ean13": null,
+      "isbn": null,
+      "upc": null,
+      "quantity": 0,
+      "price": 0,
+      "old_price": 0,
+      "variations": [
+        {
+          "id": 177,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": true,
+          "combinations": [
+            {
+              "id": 353,
+              "product_variation_id": 177,
+              "attribute_id": 1,
+              "value_id": 1,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 1,
+                "name": "XS"
+              }
+            },
+            {
+              "id": 354,
+              "product_variation_id": 177,
+              "attribute_id": 2,
+              "value_id": 28,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 28,
+                "name": "Лайм "
+              }
+            }
+          ]
+        },
+        {
+          "id": 178,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 355,
+              "product_variation_id": 178,
+              "attribute_id": 1,
+              "value_id": 1,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 1,
+                "name": "XS"
+              }
+            },
+            {
+              "id": 356,
+              "product_variation_id": 178,
+              "attribute_id": 2,
+              "value_id": 20,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 20,
+                "name": "Серый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 179,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 357,
+              "product_variation_id": 179,
+              "attribute_id": 1,
+              "value_id": 1,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 1,
+                "name": "XS"
+              }
+            },
+            {
+              "id": 358,
+              "product_variation_id": 179,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 180,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 359,
+              "product_variation_id": 180,
+              "attribute_id": 1,
+              "value_id": 1,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 1,
+                "name": "XS"
+              }
+            },
+            {
+              "id": 360,
+              "product_variation_id": 180,
+              "attribute_id": 2,
+              "value_id": 11,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 11,
+                "name": "Фиолетовый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 181,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 361,
+              "product_variation_id": 181,
+              "attribute_id": 1,
+              "value_id": 1,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 1,
+                "name": "XS"
+              }
+            },
+            {
+              "id": 362,
+              "product_variation_id": 181,
+              "attribute_id": 2,
+              "value_id": 27,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 27,
+                "name": "Хаки"
+              }
+            }
+          ]
+        },
+        {
+          "id": 182,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 363,
+              "product_variation_id": 182,
+              "attribute_id": 1,
+              "value_id": 1,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 1,
+                "name": "XS"
+              }
+            },
+            {
+              "id": 364,
+              "product_variation_id": 182,
+              "attribute_id": 2,
+              "value_id": 24,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 24,
+                "name": "Розовый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 183,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 365,
+              "product_variation_id": 183,
+              "attribute_id": 1,
+              "value_id": 2,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 2,
+                "name": "S"
+              }
+            },
+            {
+              "id": 366,
+              "product_variation_id": 183,
+              "attribute_id": 2,
+              "value_id": 28,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 28,
+                "name": "Лайм "
+              }
+            }
+          ]
+        },
+        {
+          "id": 184,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 367,
+              "product_variation_id": 184,
+              "attribute_id": 1,
+              "value_id": 2,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 2,
+                "name": "S"
+              }
+            },
+            {
+              "id": 368,
+              "product_variation_id": 184,
+              "attribute_id": 2,
+              "value_id": 20,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 20,
+                "name": "Серый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 185,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 369,
+              "product_variation_id": 185,
+              "attribute_id": 1,
+              "value_id": 2,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 2,
+                "name": "S"
+              }
+            },
+            {
+              "id": 370,
+              "product_variation_id": 185,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 186,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 371,
+              "product_variation_id": 186,
+              "attribute_id": 1,
+              "value_id": 2,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 2,
+                "name": "S"
+              }
+            },
+            {
+              "id": 372,
+              "product_variation_id": 186,
+              "attribute_id": 2,
+              "value_id": 11,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 11,
+                "name": "Фиолетовый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 187,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 373,
+              "product_variation_id": 187,
+              "attribute_id": 1,
+              "value_id": 2,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 2,
+                "name": "S"
+              }
+            },
+            {
+              "id": 374,
+              "product_variation_id": 187,
+              "attribute_id": 2,
+              "value_id": 27,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 27,
+                "name": "Хаки"
+              }
+            }
+          ]
+        },
+        {
+          "id": 188,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 375,
+              "product_variation_id": 188,
+              "attribute_id": 1,
+              "value_id": 2,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 2,
+                "name": "S"
+              }
+            },
+            {
+              "id": 376,
+              "product_variation_id": 188,
+              "attribute_id": 2,
+              "value_id": 24,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 24,
+                "name": "Розовый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 189,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 377,
+              "product_variation_id": 189,
+              "attribute_id": 1,
+              "value_id": 3,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 3,
+                "name": "M"
+              }
+            },
+            {
+              "id": 378,
+              "product_variation_id": 189,
+              "attribute_id": 2,
+              "value_id": 28,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 28,
+                "name": "Лайм "
+              }
+            }
+          ]
+        },
+        {
+          "id": 190,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 379,
+              "product_variation_id": 190,
+              "attribute_id": 1,
+              "value_id": 3,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 3,
+                "name": "M"
+              }
+            },
+            {
+              "id": 380,
+              "product_variation_id": 190,
+              "attribute_id": 2,
+              "value_id": 20,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 20,
+                "name": "Серый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 191,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 381,
+              "product_variation_id": 191,
+              "attribute_id": 1,
+              "value_id": 3,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 3,
+                "name": "M"
+              }
+            },
+            {
+              "id": 382,
+              "product_variation_id": 191,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 192,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 383,
+              "product_variation_id": 192,
+              "attribute_id": 1,
+              "value_id": 3,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 3,
+                "name": "M"
+              }
+            },
+            {
+              "id": 384,
+              "product_variation_id": 192,
+              "attribute_id": 2,
+              "value_id": 11,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 11,
+                "name": "Фиолетовый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 193,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 385,
+              "product_variation_id": 193,
+              "attribute_id": 1,
+              "value_id": 3,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 3,
+                "name": "M"
+              }
+            },
+            {
+              "id": 386,
+              "product_variation_id": 193,
+              "attribute_id": 2,
+              "value_id": 27,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 27,
+                "name": "Хаки"
+              }
+            }
+          ]
+        },
+        {
+          "id": 194,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 387,
+              "product_variation_id": 194,
+              "attribute_id": 1,
+              "value_id": 3,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 3,
+                "name": "M"
+              }
+            },
+            {
+              "id": 388,
+              "product_variation_id": 194,
+              "attribute_id": 2,
+              "value_id": 24,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 24,
+                "name": "Розовый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 195,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 389,
+              "product_variation_id": 195,
+              "attribute_id": 1,
+              "value_id": 4,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 4,
+                "name": "L"
+              }
+            },
+            {
+              "id": 390,
+              "product_variation_id": 195,
+              "attribute_id": 2,
+              "value_id": 28,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 28,
+                "name": "Лайм "
+              }
+            }
+          ]
+        },
+        {
+          "id": 196,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 391,
+              "product_variation_id": 196,
+              "attribute_id": 1,
+              "value_id": 4,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 4,
+                "name": "L"
+              }
+            },
+            {
+              "id": 392,
+              "product_variation_id": 196,
+              "attribute_id": 2,
+              "value_id": 20,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 20,
+                "name": "Серый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 197,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 393,
+              "product_variation_id": 197,
+              "attribute_id": 1,
+              "value_id": 4,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 4,
+                "name": "L"
+              }
+            },
+            {
+              "id": 394,
+              "product_variation_id": 197,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 198,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 395,
+              "product_variation_id": 198,
+              "attribute_id": 1,
+              "value_id": 4,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 4,
+                "name": "L"
+              }
+            },
+            {
+              "id": 396,
+              "product_variation_id": 198,
+              "attribute_id": 2,
+              "value_id": 11,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 11,
+                "name": "Фиолетовый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 199,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 397,
+              "product_variation_id": 199,
+              "attribute_id": 1,
+              "value_id": 4,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 4,
+                "name": "L"
+              }
+            },
+            {
+              "id": 398,
+              "product_variation_id": 199,
+              "attribute_id": 2,
+              "value_id": 27,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 27,
+                "name": "Хаки"
+              }
+            }
+          ]
+        },
+        {
+          "id": 200,
+          "product_id": 18,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 399,
+              "product_variation_id": 200,
+              "attribute_id": 1,
+              "value_id": 4,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 4,
+                "name": "L"
+              }
+            },
+            {
+              "id": 400,
+              "product_variation_id": 200,
+              "attribute_id": 2,
+              "value_id": 24,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 24,
+                "name": "Розовый"
+              }
+            }
+          ]
+        }
+      ],
+      "brand": {
+        "id": 1,
+        "name": "Zara"
+      },
+      "category": {
+        "id": 16,
+        "name": "Платья и сарафаны",
+        "slug": "platiya-i-sarafany",
+        "meta_title": null,
+        "meta_description": null,
+        "meta_keywords": null,
+        "description": null
+      }
+    },
+    {
+      "id": 19,
+      "meta_title": null,
+      "meta_description": null,
+      "meta_keywords": null,
+      "name": "Набор носков с принтом",
+      "slug": null,
+      "description": "JOIN LIFE Care for fiber: не менее 50% органического хлопка. Органический хлопок выращивается с применением методов, способствующих защите биологического разнообразия, таких как ротация культур и использование натуральных удобрений.",
+      "composition": "",
+      "care": "",
+      "brand_id": 1,
+      "category_id": 16,
+      "reference": "3260/588",
+      "ean13": null,
+      "isbn": null,
+      "upc": null,
+      "quantity": 0,
+      "price": 0,
+      "old_price": 0,
+      "variations": [
+        {
+          "id": 201,
+          "product_id": 19,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": true,
+          "combinations": [
+            {
+              "id": 401,
+              "product_variation_id": 201,
+              "attribute_id": 1,
+              "value_id": 3,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 3,
+                "name": "M"
+              }
+            },
+            {
+              "id": 402,
+              "product_variation_id": 201,
+              "attribute_id": 2,
+              "value_id": 18,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 18,
+                "name": "Белый"
+              }
+            }
+          ]
+        }
+      ],
+      "brand": {
+        "id": 1,
+        "name": "Zara"
+      },
+      "category": {
+        "id": 16,
+        "name": "Платья и сарафаны",
+        "slug": "platiya-i-sarafany",
+        "meta_title": null,
+        "meta_description": null,
+        "meta_keywords": null,
+        "description": null
+      }
+    },
+    {
+      "id": 20,
+      "meta_title": null,
+      "meta_description": null,
+      "meta_keywords": null,
+      "name": "Короткая джинсовая юбка",
+      "slug": null,
+      "description": "JOIN LIFE Care for fiber: не менее 65% органического хлопка. Органический хлопок выращивается с применением методов, способствующих защите биологического разнообразия, таких как ротация культур и использование натуральных удобрений.",
+      "composition": "",
+      "care": "",
+      "brand_id": 1,
+      "category_id": 16,
+      "reference": "0548/335",
+      "ean13": null,
+      "isbn": null,
+      "upc": null,
+      "quantity": 0,
+      "price": 0,
+      "old_price": 0,
+      "variations": [
+        {
+          "id": 202,
+          "product_id": 20,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": true,
+          "combinations": [
+            {
+              "id": 403,
+              "product_variation_id": 202,
+              "attribute_id": 1,
+              "value_id": 6,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 6,
+                "name": "32"
+              }
+            },
+            {
+              "id": 404,
+              "product_variation_id": 202,
+              "attribute_id": 2,
+              "value_id": 17,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 17,
+                "name": "Синий застиранный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 203,
+          "product_id": 20,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 405,
+              "product_variation_id": 203,
+              "attribute_id": 1,
+              "value_id": 7,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 7,
+                "name": "34"
+              }
+            },
+            {
+              "id": 406,
+              "product_variation_id": 203,
+              "attribute_id": 2,
+              "value_id": 17,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 17,
+                "name": "Синий застиранный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 204,
+          "product_id": 20,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 407,
+              "product_variation_id": 204,
+              "attribute_id": 1,
+              "value_id": 8,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 8,
+                "name": "36"
+              }
+            },
+            {
+              "id": 408,
+              "product_variation_id": 204,
+              "attribute_id": 2,
+              "value_id": 17,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 17,
+                "name": "Синий застиранный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 205,
+          "product_id": 20,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 409,
+              "product_variation_id": 205,
+              "attribute_id": 1,
+              "value_id": 9,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 9,
+                "name": "38"
+              }
+            },
+            {
+              "id": 410,
+              "product_variation_id": 205,
+              "attribute_id": 2,
+              "value_id": 17,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 17,
+                "name": "Синий застиранный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 206,
+          "product_id": 20,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 411,
+              "product_variation_id": 206,
+              "attribute_id": 1,
+              "value_id": 10,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 10,
+                "name": "40"
+              }
+            },
+            {
+              "id": 412,
+              "product_variation_id": 206,
+              "attribute_id": 2,
+              "value_id": 17,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 17,
+                "name": "Синий застиранный"
+              }
+            }
+          ]
+        }
+      ],
+      "brand": {
+        "id": 1,
+        "name": "Zara"
+      },
+      "category": {
+        "id": 16,
+        "name": "Платья и сарафаны",
+        "slug": "platiya-i-sarafany",
+        "meta_title": null,
+        "meta_description": null,
+        "meta_keywords": null,
+        "description": null
+      }
+    },
+    {
+      "id": 21,
+      "meta_title": null,
+      "meta_description": null,
+      "meta_keywords": null,
+      "name": "Брюки скинни с широким поясом.",
+      "slug": null,
+      "description": "Эластичные джинсы скинни с 5 карманами и высокой посадкой. Застежка на металлическую пуговицу и молнию, скрытую планкой.<br/><br/>JOIN LIFE Care for fiber: не менее 95% органического хлопка. Органический хлопок выращивается с применением методов, способствующих защите биологического разнообразия: таких, как ротация культур и использование натуральных удобрений.",
+      "composition": "",
+      "care": "",
+      "brand_id": 1,
+      "category_id": 16,
+      "reference": "0049/665",
+      "ean13": null,
+      "isbn": null,
+      "upc": null,
+      "quantity": 0,
+      "price": 0,
+      "old_price": 0,
+      "variations": [
+        {
+          "id": 207,
+          "product_id": 21,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": true,
+          "combinations": [
+            {
+              "id": 413,
+              "product_variation_id": 207,
+              "attribute_id": 1,
+              "value_id": 6,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 6,
+                "name": "32"
+              }
+            },
+            {
+              "id": 414,
+              "product_variation_id": 207,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 208,
+          "product_id": 21,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 415,
+              "product_variation_id": 208,
+              "attribute_id": 1,
+              "value_id": 6,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 6,
+                "name": "32"
+              }
+            },
+            {
+              "id": 416,
+              "product_variation_id": 208,
+              "attribute_id": 2,
+              "value_id": 20,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 20,
+                "name": "Серый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 209,
+          "product_id": 21,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 417,
+              "product_variation_id": 209,
+              "attribute_id": 1,
+              "value_id": 7,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 7,
+                "name": "34"
+              }
+            },
+            {
+              "id": 418,
+              "product_variation_id": 209,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 210,
+          "product_id": 21,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 419,
+              "product_variation_id": 210,
+              "attribute_id": 1,
+              "value_id": 7,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 7,
+                "name": "34"
+              }
+            },
+            {
+              "id": 420,
+              "product_variation_id": 210,
+              "attribute_id": 2,
+              "value_id": 20,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 20,
+                "name": "Серый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 211,
+          "product_id": 21,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 421,
+              "product_variation_id": 211,
+              "attribute_id": 1,
+              "value_id": 8,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 8,
+                "name": "36"
+              }
+            },
+            {
+              "id": 422,
+              "product_variation_id": 211,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 212,
+          "product_id": 21,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 423,
+              "product_variation_id": 212,
+              "attribute_id": 1,
+              "value_id": 8,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 8,
+                "name": "36"
+              }
+            },
+            {
+              "id": 424,
+              "product_variation_id": 212,
+              "attribute_id": 2,
+              "value_id": 20,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 20,
+                "name": "Серый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 213,
+          "product_id": 21,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 425,
+              "product_variation_id": 213,
+              "attribute_id": 1,
+              "value_id": 9,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 9,
+                "name": "38"
+              }
+            },
+            {
+              "id": 426,
+              "product_variation_id": 213,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 214,
+          "product_id": 21,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 427,
+              "product_variation_id": 214,
+              "attribute_id": 1,
+              "value_id": 9,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 9,
+                "name": "38"
+              }
+            },
+            {
+              "id": 428,
+              "product_variation_id": 214,
+              "attribute_id": 2,
+              "value_id": 20,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 20,
+                "name": "Серый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 215,
+          "product_id": 21,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 429,
+              "product_variation_id": 215,
+              "attribute_id": 1,
+              "value_id": 10,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 10,
+                "name": "40"
+              }
+            },
+            {
+              "id": 430,
+              "product_variation_id": 215,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 216,
+          "product_id": 21,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 431,
+              "product_variation_id": 216,
+              "attribute_id": 1,
+              "value_id": 10,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 10,
+                "name": "40"
+              }
+            },
+            {
+              "id": 432,
+              "product_variation_id": 216,
+              "attribute_id": 2,
+              "value_id": 20,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 20,
+                "name": "Серый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 217,
+          "product_id": 21,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 433,
+              "product_variation_id": 217,
+              "attribute_id": 1,
+              "value_id": 21,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 21,
+                "name": "42"
+              }
+            },
+            {
+              "id": 434,
+              "product_variation_id": 217,
+              "attribute_id": 2,
+              "value_id": 5,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 5,
+                "name": "Черный"
+              }
+            }
+          ]
+        },
+        {
+          "id": 218,
+          "product_id": 21,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 435,
+              "product_variation_id": 218,
+              "attribute_id": 1,
+              "value_id": 21,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 21,
+                "name": "42"
+              }
+            },
+            {
+              "id": 436,
+              "product_variation_id": 218,
+              "attribute_id": 2,
+              "value_id": 20,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 20,
+                "name": "Серый"
+              }
+            }
+          ]
+        }
+      ],
+      "brand": {
+        "id": 1,
+        "name": "Zara"
+      },
+      "category": {
+        "id": 16,
+        "name": "Платья и сарафаны",
+        "slug": "platiya-i-sarafany",
+        "meta_title": null,
+        "meta_description": null,
+        "meta_keywords": null,
+        "description": null
+      }
+    },
+    {
+      "id": 22,
+      "meta_title": null,
+      "meta_description": null,
+      "meta_keywords": null,
+      "name": "Футболка с принтом «Минни»",
+      "slug": null,
+      "description": "JOIN LIFE Care for fiber: не менее 50% органического хлопка. Органический хлопок выращивается с применением методов, способствующих защите биологического разнообразия, таких как ротация культур и использование натуральных удобрений.",
+      "composition": "",
+      "care": "",
+      "brand_id": 1,
+      "category_id": 16,
+      "reference": "1974/469",
+      "ean13": null,
+      "isbn": null,
+      "upc": null,
+      "quantity": 0,
+      "price": 0,
+      "old_price": 0,
+      "variations": [
+        {
+          "id": 219,
+          "product_id": 22,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": true,
+          "combinations": [
+            {
+              "id": 437,
+              "product_variation_id": 219,
+              "attribute_id": 1,
+              "value_id": 1,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 1,
+                "name": "XS"
+              }
+            },
+            {
+              "id": 438,
+              "product_variation_id": 219,
+              "attribute_id": 2,
+              "value_id": 18,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 18,
+                "name": "Белый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 220,
+          "product_id": 22,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 439,
+              "product_variation_id": 220,
+              "attribute_id": 1,
+              "value_id": 2,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 2,
+                "name": "S"
+              }
+            },
+            {
+              "id": 440,
+              "product_variation_id": 220,
+              "attribute_id": 2,
+              "value_id": 18,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 18,
+                "name": "Белый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 221,
+          "product_id": 22,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 441,
+              "product_variation_id": 221,
+              "attribute_id": 1,
+              "value_id": 3,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 3,
+                "name": "M"
+              }
+            },
+            {
+              "id": 442,
+              "product_variation_id": 221,
+              "attribute_id": 2,
+              "value_id": 18,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 18,
+                "name": "Белый"
+              }
+            }
+          ]
+        },
+        {
+          "id": 222,
+          "product_id": 22,
+          "reference": "",
+          "ean13": "",
+          "isbn": "",
+          "upc": "",
+          "quantity": 0,
+          "price": 0,
+          "is_default": false,
+          "combinations": [
+            {
+              "id": 443,
+              "product_variation_id": 222,
+              "attribute_id": 1,
+              "value_id": 4,
+              "attribute": {
+                "id": 1,
+                "name": "Размер",
+                "type": "dropdown"
+              },
+              "value": {
+                "id": 4,
+                "name": "L"
+              }
+            },
+            {
+              "id": 444,
+              "product_variation_id": 222,
+              "attribute_id": 2,
+              "value_id": 18,
+              "attribute": {
+                "id": 2,
+                "name": "Цвет",
+                "type": "color"
+              },
+              "value": {
+                "id": 18,
+                "name": "Белый"
+              }
+            }
+          ]
+        }
+      ],
+      "brand": {
+        "id": 1,
+        "name": "Zara"
+      },
+      "category": {
+        "id": 16,
+        "name": "Платья и сарафаны",
+        "slug": "platiya-i-sarafany",
+        "meta_title": null,
+        "meta_description": null,
+        "meta_keywords": null,
+        "description": null
+      }
+    }
+  ]
+}

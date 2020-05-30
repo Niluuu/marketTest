@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="8" viewBox="0 0 11 8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="arrowDown" class="cls-1" d="M613,134h11l-6,8Z" transform="translate(-613 -134)"/>
+</svg>

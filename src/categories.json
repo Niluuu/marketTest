@@ -1,0 +1,424 @@
+{
+  "categories": [
+    {
+      "id": 2,
+      "meta_title": "Мужчинам",
+      "meta_description": "Мужчинам",
+      "meta_keywords": "Мужчинам",
+      "name": "Мужчинам",
+      "description": "Мужчинам Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "men",
+      "parent_id": 0
+    },
+    {
+      "id": 1,
+      "meta_title": "Женщинам",
+      "meta_description": "Женщинам",
+      "meta_keywords": "Женщинам",
+      "name": "Женщинам",
+      "description": "Женщинам Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "women",
+      "parent_id": 0
+    },
+    {
+      "id": 17,
+      "meta_title": "Блузы и рубашки",
+      "meta_description": "Блузы и рубашки",
+      "meta_keywords": "Блузы и рубашки",
+      "name": "Блузы и рубашки",
+      "description": "Блузы и рубашки Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "bluzy-i-rubashki",
+      "parent_id": 4
+    },
+    {
+      "id": 12,
+      "meta_title": "Девочкам",
+      "meta_description": "Девочкам",
+      "meta_keywords": "Девочкам",
+      "name": "Девочкам",
+      "description": "Девочкам Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "child-devochkam",
+      "parent_id": 3
+    },
+    {
+      "id": 24,
+      "meta_title": "Верхняя одежда",
+      "meta_description": "Верхняя одежда",
+      "meta_keywords": "Верхняя одежда",
+      "name": "Верхняя одежда",
+      "description": "Верхняя одежда Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "verxnaya-odejda",
+      "parent_id": 4
+    },
+    {
+      "id": 29,
+      "meta_title": "Верхняя одежда",
+      "meta_description": "Верхняя одежда",
+      "meta_keywords": "Верхняя одежда",
+      "name": "Верхняя одежда",
+      "description": "Верхняя одежда Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "men-verxnaya-odejda",
+      "parent_id": 8
+    },
+    {
+      "id": 38,
+      "meta_title": "Ботинки и полуботинки",
+      "meta_description": "Ботинки и полуботинки",
+      "meta_keywords": "Ботинки и полуботинки",
+      "name": "Ботинки и полуботинки",
+      "description": "Ботинки и полуботинки Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "men-botinki-i-polubotinki",
+      "parent_id": 9
+    },
+    {
+      "id": 18,
+      "meta_title": "Футболки",
+      "meta_description": "Футболки",
+      "meta_keywords": "Футболки",
+      "name": "Футболки",
+      "description": "Футболки Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "futbolki",
+      "parent_id": 4
+    },
+    {
+      "id": 22,
+      "meta_title": "Комбинезоны",
+      "meta_description": "Комбинезоны",
+      "meta_keywords": "Комбинезоны",
+      "name": "Комбинезоны",
+      "description": "Комбинезоны Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "kombinezony",
+      "parent_id": 4
+    },
+    {
+      "id": 14,
+      "meta_title": "Новорожденным",
+      "meta_description": "Новорожденным",
+      "meta_keywords": "Новорожденным",
+      "name": "Новорожденным",
+      "description": "Новорожденным Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "child-novorojdennim",
+      "parent_id": 3
+    },
+    {
+      "id": 7,
+      "meta_title": "Бренды",
+      "meta_description": "Бренды",
+      "meta_keywords": "Бренды",
+      "name": "Бренды",
+      "description": "Бренды Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "women-brendi",
+      "parent_id": 1
+    },
+    {
+      "id": 11,
+      "meta_title": "Бренды",
+      "meta_description": "Бренды",
+      "meta_keywords": "Бренды",
+      "name": "Бренды",
+      "description": "Бренды Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "men-brendi",
+      "parent_id": 2
+    },
+    {
+      "id": 15,
+      "meta_title": "Бренды",
+      "meta_description": "Бренды",
+      "meta_keywords": "Бренды",
+      "name": "Бренды",
+      "description": "Бренды Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "child-brendi",
+      "parent_id": 3
+    },
+    {
+      "id": 4,
+      "meta_title": "Одежда",
+      "meta_description": "Одежда",
+      "meta_keywords": "Одежда",
+      "name": "Одежда",
+      "description": "Одежда Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "women-odejda",
+      "parent_id": 1
+    },
+    {
+      "id": 8,
+      "meta_title": "Одежда",
+      "meta_description": "Одежда",
+      "meta_keywords": "Одежда",
+      "name": "Одежда",
+      "description": "Одежда Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "men-odejda",
+      "parent_id": 2
+    },
+    {
+      "id": 27,
+      "meta_title": "Джинсы",
+      "meta_description": "Джинсы",
+      "meta_keywords": "Джинсы",
+      "name": "Джинсы",
+      "description": "Джинсы Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "men-djinsi",
+      "parent_id": 8
+    },
+    {
+      "id": 42,
+      "meta_title": "Джинсы",
+      "meta_description": "Джинсы",
+      "meta_keywords": "Джинсы",
+      "name": "Джинсы",
+      "description": "Джинсы Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "children-djinsi",
+      "parent_id": 14
+    },
+    {
+      "id": 21,
+      "meta_title": "Топы и майки",
+      "meta_description": "Топы и майки",
+      "meta_keywords": "Топы и майки",
+      "name": "Топы и майки",
+      "description": "Топы и майки Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "topy-i-mayki",
+      "parent_id": 4
+    },
+    {
+      "id": 30,
+      "meta_title": "Топы и майки",
+      "meta_description": "Топы и майки",
+      "meta_keywords": "Топы и майки",
+      "name": "Топы и майки",
+      "description": "Топы и майки Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "men-topy-i-mayki",
+      "parent_id": 8
+    },
+    {
+      "id": 13,
+      "meta_title": "Мальчикам",
+      "meta_description": "Мальчикам",
+      "meta_keywords": "Мальчикам",
+      "name": "Мальчикам",
+      "description": "Мальчикам и рубашки Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "child-malchikam",
+      "parent_id": 3
+    },
+    {
+      "id": 23,
+      "meta_title": "Свитера и кардиганы",
+      "meta_description": "Свитера и кардиганы",
+      "meta_keywords": "Свитера и кардиганы",
+      "name": "Свитера и кардиганы",
+      "description": "Свитера и кардиганы Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "svitera-i-kardigani",
+      "parent_id": 4
+    },
+    {
+      "id": 31,
+      "meta_title": "Свитера и кардиганы",
+      "meta_description": "Свитера и кардиганы",
+      "meta_keywords": "Свитера и кардиганы",
+      "name": "Свитера и кардиганы",
+      "description": "Свитера и кардиганы Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "men-svitra-i-kardigany",
+      "parent_id": 8
+    },
+    {
+      "id": 32,
+      "meta_title": "Шорты",
+      "meta_description": "Шорты",
+      "meta_keywords": "Шорты",
+      "name": "Шорты",
+      "description": "Шорты Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "men-shorty",
+      "parent_id": 8
+    },
+    {
+      "id": 5,
+      "meta_title": "Обувь",
+      "meta_description": "Обувь",
+      "meta_keywords": "Обувь",
+      "name": "Обувь",
+      "description": "Обувь и рубашки Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "women-obuv",
+      "parent_id": 1
+    },
+    {
+      "id": 9,
+      "meta_title": "Обувь",
+      "meta_description": "Обувь",
+      "meta_keywords": "Обувь",
+      "name": "Обувь",
+      "description": "Обувь и рубашки Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "men-obuv",
+      "parent_id": 2
+    },
+    {
+      "id": 34,
+      "meta_title": "Туфли",
+      "meta_description": "Туфли",
+      "meta_keywords": "Туфли",
+      "name": "Туфли",
+      "description": "Туфли Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "women-tufli",
+      "parent_id": 5
+    },
+    {
+      "id": 37,
+      "meta_title": "Туфли",
+      "meta_description": "Туфли",
+      "meta_keywords": "Туфли",
+      "name": "Туфли",
+      "description": "Туфли Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "men-tufli",
+      "parent_id": 9
+    },
+    {
+      "id": 3,
+      "meta_title": "Детям",
+      "meta_description": "Детям",
+      "meta_keywords": "Детям",
+      "name": "Детям",
+      "description": "Детям Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "children",
+      "parent_id": 0
+    },
+    {
+      "id": 16,
+      "meta_title": "Платья и сарафаны",
+      "meta_description": "Платья и сарафаны",
+      "meta_keywords": "Платья и сарафаны",
+      "name": "Платья и сарафаны",
+      "description": "Платья и сарафаны Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "platiya-i-sarafany",
+      "parent_id": 4
+    },
+    {
+      "id": 20,
+      "meta_title": "Брюки",
+      "meta_description": "Брюки",
+      "meta_keywords": "Брюки",
+      "name": "Брюки",
+      "description": "Брюки Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "bryuki",
+      "parent_id": 4
+    },
+    {
+      "id": 26,
+      "meta_title": "Брюки",
+      "meta_description": "Брюки",
+      "meta_keywords": "Брюки",
+      "name": "Брюки",
+      "description": "Брюки Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "men-bruki",
+      "parent_id": 8
+    },
+    {
+      "id": 41,
+      "meta_title": "Брюки",
+      "meta_description": "Брюки",
+      "meta_keywords": "Брюки",
+      "name": "Брюки",
+      "description": "Брюки Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "children-bruki",
+      "parent_id": 13
+    },
+    {
+      "id": 6,
+      "meta_title": "Аксессуары",
+      "meta_description": "Аксессуары",
+      "meta_keywords": "Аксессуары",
+      "name": "Аксессуары",
+      "description": "Аксессуары Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "women-aksessuari",
+      "parent_id": 1
+    },
+    {
+      "id": 10,
+      "meta_title": "Аксессуары",
+      "meta_description": "Аксессуары",
+      "meta_keywords": "Аксессуары",
+      "name": "Аксессуары",
+      "description": "Аксессуары Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "men-aksessuari",
+      "parent_id": 2
+    },
+    {
+      "id": 35,
+      "meta_title": "Ботинки и ботильоны",
+      "meta_description": "Ботинки и ботильоны",
+      "meta_keywords": "Ботинки и ботильоны",
+      "name": "Ботинки и ботильоны",
+      "description": "Ботинки и ботильоны Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "women-botinki-i-botilony",
+      "parent_id": 5
+    },
+    {
+      "id": 33,
+      "meta_title": "Костюмы и пиджаки",
+      "meta_description": "Костюмы и пиджаки",
+      "meta_keywords": "Костюмы и пиджаки",
+      "name": "Костюмы и пиджаки",
+      "description": "Костюмы и пиджаки Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "men-kostyumy-i-pidzhaki",
+      "parent_id": 8
+    },
+    {
+      "id": 36,
+      "meta_title": "Кроссовки",
+      "meta_description": "Кроссовки",
+      "meta_keywords": "Кроссовки",
+      "name": "Кроссовки",
+      "description": "Кроссовки Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "women-krasovki",
+      "parent_id": 5
+    },
+    {
+      "id": 39,
+      "meta_title": "Кроссовки",
+      "meta_description": "Кроссовки",
+      "meta_keywords": "Кроссовки",
+      "name": "Кроссовки",
+      "description": "Кроссовки Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "men-krasovki",
+      "parent_id": 9
+    },
+    {
+      "id": 19,
+      "meta_title": "Юбки",
+      "meta_description": "Юбки",
+      "meta_keywords": "Юбки",
+      "name": "Юбки",
+      "description": "Юбки Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "yubki",
+      "parent_id": 4
+    },
+    {
+      "id": 25,
+      "meta_title": "Рубашки",
+      "meta_description": "Рубашки",
+      "meta_keywords": "Рубашки",
+      "name": "Рубашки",
+      "description": "Рубашки Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "men-rubajki",
+      "parent_id": 8
+    },
+    {
+      "id": 40,
+      "meta_title": "Рубашки",
+      "meta_description": "Рубашки",
+      "meta_keywords": "Рубашки",
+      "name": "Рубашки",
+      "description": "Рубашки Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "children-rubajki",
+      "parent_id": 12
+    },
+    {
+      "id": 28,
+      "meta_title": "Толстовки и худи",
+      "meta_description": "Толстовки и худи",
+      "meta_keywords": "Толстовки и худи",
+      "name": "Толстовки и худи",
+      "description": "Толстовки и худи Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "slug": "men-tolstovki-i-xudi",
+      "parent_id": 8
+    }
+  ]
+}
