@@ -21,11 +21,11 @@ export default class Carousel extends Component {
     const settings = {
       dots: true,
       infinite: true,
-      slidesToShow: 3,
+      slidesToShow: 7,
       slidesToScroll: 1,
       autoplay: true,
-      speed: 1000,
-      autoplaySpeed: 2000,
+      speed: 2000,
+      autoplaySpeed: 3000,
       cssEase: "linear",
     };
     return (

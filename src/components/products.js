@@ -22,40 +22,40 @@ function Products() {
           );
         })}
       </div>
-      <div class="my_pagination">
-        <ul class="my_pagination-ulll">
+      <div className="my_pagination">
+        <ul className="my_pagination-ulll">
           <li>
-            <a class="my_pagination_lia" href="#">
+            <a className="my_pagination_lia" href="#">
               1
             </a>
           </li>
           <li>
-            <a class="my_pagination_lia disableda" href="#">
+            <a className="my_pagination_lia disableda" href="#">
               ...
             </a>
           </li>
           <li>
-            <a class="my_pagination_lia" href="#">
+            <a className="my_pagination_lia" href="#">
               98
             </a>
           </li>
           <li>
-            <a class="my_pagination_lia active" href="#">
+            <a className="my_pagination_lia active" href="#">
               99
             </a>
           </li>
           <li>
-            <a class="my_pagination_lia" href="#">
+            <a className="my_pagination_lia" href="#">
               100
             </a>
           </li>
           <li>
-            <a class="my_pagination_lia disableda" href="#">
+            <a className="my_pagination_lia disableda" href="#">
               ...
             </a>
           </li>
           <li>
-            <a class="my_pagination_lia" href="#">
+            <a className="my_pagination_lia" href="#">
               1000
             </a>
           </li>

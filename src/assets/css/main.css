@@ -818,6 +818,7 @@ width_30px {
 }
 
 .my_accordion_btn {
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -870,7 +871,9 @@ width_30px {
 .gery_text_footer:hover {
   color: #767676;
 }
-
+.appfooter {
+  display: flex;
+}
 .appfooter_child1 {
   width: 75px;
   height: 25px;
@@ -1382,7 +1385,7 @@ width_30px {
 }
 
 .smart_all_btns1 {
-  border: 1px solid #f7f7f8;
+  border: 1px solid #f7f7f8 !important;
   width: 50%;
 }
 
@@ -1580,4 +1583,15 @@ width_30px {
 .slick-dots {
   display: none;
   visibility: hidden;
+}
+.mob_container .card {
+  border: none;
+}
+
+.down_icon_btn {
+  transition: 2ms;
+}
+
+.icon_rotated {
+  transform: rotate(177deg);
 }

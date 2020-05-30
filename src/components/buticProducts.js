@@ -4,27 +4,26 @@ import productImg from "../assets/img/ssss.png";
 
 function ButicProducts() {
   const buticProducts = data.categories;
-  console.log(buticProducts);
   return (
-    <div class="buutic">
-      <div class="mob_container">
-        <div class="buutic_all">
-          <h1 class="bold_19">BUTIK рекомендует</h1>
-          <div class="buutic_all_child_cover">
-            {buticProducts.map(({ parent_id, description }) => {
+    <div className="buutic">
+      <div className="mob_container">
+        <div className="buutic_all">
+          <h1 className="bold_19">BUTIK рекомендует</h1>
+          <div className="buutic_all_child_cover">
+            {buticProducts.map(({ parent_id, description }, i) => {
               return (
-                <a href="#" class="buutic_all_child">
-                  <div class="buutic_all_child_img">
-                    <div class="mpopular_all_child_free">{parent_id} %</div>
+                <a key={i} href="#" className="buutic_all_child">
+                  <div className="buutic_all_child_img">
+                    <div className="mpopular_all_child_free">{parent_id} %</div>
                     <img src={productImg} alt="" />
                   </div>
-                  <div class="buutic_all_child_cont">
-                    <h5 class="mb-0">
-                      <span class="bold_13 text-dark">1 504 ₽</span>{" "}
-                      <span class="regular_10 gery_cross">1 050 ₽</span>
+                  <div className="buutic_all_child_cont">
+                    <h5 className="mb-0">
+                      <span className="bold_13 text-dark">1 504 ₽</span>{" "}
+                      <span className="regular_10 gery_cross">1 050 ₽</span>
                     </h5>
-                    <div class="buutic_all_child_cont_11">
-                      <h6 class="regular_10 text-dark">{description}</h6>
+                    <div className="buutic_all_child_cont_11">
+                      <h6 className="regular_10 text-dark">{description}</h6>
                     </div>
                   </div>
                 </a>

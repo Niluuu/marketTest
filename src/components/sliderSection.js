@@ -6,7 +6,7 @@ function SliderSection() {
   return (
     <div className="global">
       <div className="mob_container pr-0">
-        <a>
+        <a href="#">
           <img src={left} className="mr-1" alt="" />
           <span className="light_13 text-dark">Электроника</span>
         </a>
