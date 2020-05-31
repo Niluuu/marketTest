@@ -1,4 +1,4 @@
-import React, { useState, useContext } from "react";
+import React, { useContext } from "react";
 import Accordion from "react-bootstrap/Accordion";
 import AccordionContext from "react-bootstrap/AccordionContext";
 import Col from "react-bootstrap/Col";
@@ -9,32 +9,11 @@ import down from "../assets/img/down.png";
 import apkIcon1 from "../assets/img/ap1.png";
 import apkIcon2 from "../assets/img/ap2.png";
 
-// function CustomToggle({ children, eventKey }) {
-//   const decoratedOnClick = useAccordionToggle(eventKey, () =>
-//     console.log(children)
-//   );
-
-//   return (
-//     <button
-//       className="my_accordion_btn collapsed"
-//       type="button"
-//       onClick={decoratedOnClick}
-//     >
-//       <span className="my_accordion_btn_cont">
-//         {children}
-//         <span className="my_accordion_btn_imgg">
-//           <img src={down} alt="" />
-//         </span>
-//       </span>
-//     </button>
-//   );
-// }
 function CustomToggle({ children, eventKey }) {
   const currentEventKey = useContext(AccordionContext);
   const accordionIsExpanded = currentEventKey > 0;
   const decoratedOnClick = useAccordionToggle(eventKey, () => eventKey);
   const isCurrentEventKey = currentEventKey === eventKey;
-  console.log(isCurrentEventKey);
   return (
     <div
       onClick={decoratedOnClick}
