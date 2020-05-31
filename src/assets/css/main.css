@@ -1589,9 +1589,24 @@ width_30px {
 }
 
 .down_icon_btn {
-  transition: 2ms;
+  transition: 20ms;
+  position: relative;
+  float: right;
+  margin-top: -15px;
+  transform: rotate(-177deg);
+  transition: 0.3s;
 }
 
 .icon_rotated {
-  transform: rotate(177deg);
+  transform: rotate(0deg);
+}
+
+.my_accordion_btn_cont {
+  border-bottom: 1px solid #dedede;
+  padding: 15px;
+}
+
+.border-none {
+  border-bottom: none !important;
+  padding: 15px;
 }

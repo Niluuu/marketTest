@@ -1,22 +1,9 @@
 import React, { Component } from "react";
 import Slider from "react-slick";
 import tvImg from "../assets/img/tv.png";
+import sliderData from "../data/sliderData";
 
 export default class Carousel extends Component {
-  state = {
-    items: [],
-  };
-
-  componentDidMount() {
-    function range(start, end) {
-      return Array(end - start + 1)
-        .fill()
-        .map((_, idx) => start + idx);
-    }
-
-    const result = range(1, 10);
-    this.setState({ items: result });
-  }
   render() {
     const settings = {
       dots: true,
@@ -31,7 +18,7 @@ export default class Carousel extends Component {
     return (
       <div>
         <Slider {...settings}>
-          {this.state.items.map((numb) => (
+          {sliderData.map((numb) => (
             <div
               key={numb}
               className="global_all_slider_item"

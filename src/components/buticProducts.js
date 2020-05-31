@@ -1,5 +1,5 @@
 import React from "react";
-import data from "../categories.json";
+import data from "../data/categories.json";
 import productImg from "../assets/img/ssss.png";
 
 function ButicProducts() {
